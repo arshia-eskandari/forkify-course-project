@@ -6,3 +6,5 @@ This is a project from a Udemy course called 'The Complete JavaScript Course 202
 From Zero to Expert!' by Jonas Schmedtmann
 
 In future commits I will add my own touch to this project
+
+check out the live version at https://shiny-entremet-9adc1c.netlify.app/
